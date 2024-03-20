@@ -16,3 +16,12 @@ font-size: 50px;
     font-size: 55px;
     color: midnightblue
 }
+.location {
+    position: absolute;right: 30px;
+    flex-direction: row;
+
+}
+.lable {
+    position: absolute;right: 50px;
+    flex-direction: column;
+}
