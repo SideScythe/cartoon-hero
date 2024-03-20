@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    background-color: rgb(174, 209, 255);
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+
+}
+h2 {
+    font-size: 25px;
+    color: darkcyan;
+}
+.Furina { 
+        font-size: 60px;
+        color: midnightblue
+}
+.White{
+    font-size: 60px;
+    color: rgb(219, 224, 255);
+}
+header{
+    background-color: rgb(10, 10, 61);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+
+}
+h1, h2{
+    .ovo-regular {
+        font-family: "Ovo", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+header h1{
+    color:aqua;
+}
+header img{
+    border-radius: 150px;
+    width: 1000px;
+    border: 5px solid rgb(0, 0, 34);
+}
